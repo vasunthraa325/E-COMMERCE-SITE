@@ -53,10 +53,9 @@ Tools	REST APIs, JSON, npm
 
 # Screenshots
 
-![First Page 1](https://github.com/vasunthraa325/E-COMMERCE-SITE/blob/main/Images/First_Page1.jpg?raw=true)
+![Page 1](https://github.com/vasunthraa325/E-COMMERCE-SITE/blob/main/Images/Page1.png?raw=true)
+![Page 2](https://github.com/vasunthraa325/E-COMMERCE-SITE/blob/main/Images/Page2.png?raw=true)
+![Page 3](https://github.com/vasunthraa325/E-COMMERCE-SITE/blob/main/Images/Page3.png?raw=true)
 
-![First Page 2](https://github.com/vasunthraa325/E-COMMERCE-SITE/blob/main/Images/First_Page2.jpg?raw=true)
-
-![First Page 3](https://github.com/vasunthraa325/E-COMMERCE-SITE/blob/main/Images/First_Page3.jpg?raw=true)
 
 
