@@ -3,64 +3,60 @@ HerbaCart is a dynamic e-commerce platform built using JavaScript, Node.js, Expr
 
 The main objective of developing HerbaCart is to promote authentic herbal products online and empower rural entrepreneurs with digital reach.
 
-# Users of the System
+
 There are three primary user roles in the system:
 
-Admin
-
-Customer
-
-Product Seller (Local Herbal Vendor)
+1.Admin
+2.Customer
+3.Product Seller (Local Herbal Vendor)
 
 Let’s understand the role and functionality of each user.
 
-📦 Modules
-🔐 Admin
+# Modules
+
+## Admin
 The Admin is the main controller of the platform and has access to manage users and the product catalog.
 
-Can ADD/EDIT/DELETE herbal products.
+* Can ADD/EDIT/DELETE herbal products.
+* Can VIEW all registered users and sellers.
+* Can MANAGE discounts and combo offers.
+* Can VIEW and TRACK orders.
+* Manages platform-level settings and trust verification of sellers.
 
-Can VIEW all registered users and sellers.
-
-Can MANAGE discounts and combo offers.
-
-Can VIEW and TRACK orders.
-
-Manages platform-level settings and trust verification of sellers.
-
-🛍️ Customer
+## Customer
 The Customer can browse and purchase herbal products securely through the platform.
 
-Can REGISTER/LOGIN with email/password.
+* Can REGISTER/LOGIN with email/password.
+* Can VIEW product catalog with images, prices, and ratings.
+* Can ADD/REMOVE/UPDATE items in the cart.
+* Can PLACE ORDERS and view order history.
+* Can access combo deals and offers.
+  
+## Product Seller
+* Local herbal manufacturers or sellers can upload and manage their own products.
+* Can ADD/EDIT/DELETE their herbal products.
+* Can VIEW sales summary and customer feedback
+* Can MANAGE inventory and pricing.
+* Request verification from admin for credibility badge.
 
-Can VIEW product catalog with images, prices, and ratings.
+# Technologies 
 
-Can SEARCH and FILTER products.
+Technology used in the E-Commerce Site project in java
 
-Can ADD/REMOVE/UPDATE items in the cart.
-
-Can PLACE ORDERS and view order history.
-
-Can access combo deals and offers.
-
-🧑‍🌾 Product Seller
-Local herbal manufacturers or sellers can upload and manage their own products.
-
-Can ADD/EDIT/DELETE their herbal products.
-
-Can VIEW sales summary and customer feedback.
-
-Can MANAGE inventory and pricing.
-
-Request verification from admin for credibility badge.
-
-# Technologies Used
-Layer	Technology
-Frontend	HTML, CSS, JavaScript
-Backend	Node.js, Express.js
-Database	MySQL
-Server	Node Server (Express)
-Architecture	MVC
+* Frontend	HTML, CSS, JavaScript
+* Backend	Node.js, Express.js
+* Database	MySQL
+* Server	Node Server (Express)
+* Architecture	MVC
+  
 Tools	REST APIs, JSON, npm
+
 # Screenshots
+
+![First Page 1](https://github.com/vasunthraa325/E-COMMERCE-SITE/blob/main/Images/First_Page1.jpg?raw=true)
+
+![First Page 2](https://github.com/vasunthraa325/E-COMMERCE-SITE/blob/main/Images/First_Page2.jpg?raw=true)
+
+![First Page 3](https://github.com/vasunthraa325/E-COMMERCE-SITE/blob/main/Images/First_Page3.jpg?raw=true)
+
 
