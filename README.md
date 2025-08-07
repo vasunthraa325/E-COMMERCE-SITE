@@ -1,4 +1,4 @@
-# HerbaCart – E-Commerce Platform for Herbal Products
+# HerbaCart E-Commerce Platform for Herbal Products
 HerbaCart is a dynamic e-commerce platform built using JavaScript, Node.js, Express.js, and MySQL to offer seamless access to curated herbal products. The system follows the MVC architecture and is designed for both customers and administrators to efficiently manage and buy herbal goods. It bridges the digital gap between local herbal manufacturers and health-conscious buyers.
 
 The main objective of developing HerbaCart is to promote authentic herbal products online and empower rural entrepreneurs with digital reach.
@@ -7,7 +7,9 @@ The main objective of developing HerbaCart is to promote authentic herbal produc
 There are three primary user roles in the system:
 
 1.Admin
+
 2.Customer
+
 3.Product Seller (Local Herbal Vendor)
 
 Let’s understand the role and functionality of each user.
