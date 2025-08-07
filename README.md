@@ -52,7 +52,7 @@ Technology used in the E-Commerce Site project in java
 Tools	REST APIs, JSON, npm
 
 # Screenshots
-
+![page 1](https://github.com/vasunthraa325/E-COMMERCE-SITE/blob/main/Images/Screenshot%20(431).png)
 ![Page 2](https://github.com/vasunthraa325/E-COMMERCE-SITE/blob/main/Images/Page2.png?raw=true)
 
 ![Page 3](https://github.com/vasunthraa325/E-COMMERCE-SITE/blob/main/Images/Page3.png?raw=true)
