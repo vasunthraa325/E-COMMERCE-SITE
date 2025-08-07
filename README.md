@@ -1,3 +1,5 @@
+
+
 # HerbaCart E-Commerce Platform for Herbal Products
 HerbaCart is a dynamic e-commerce platform built using JavaScript, Node.js, Express.js, and MySQL to offer seamless access to curated herbal products. The system follows the MVC architecture and is designed for both customers and administrators to efficiently manage and buy herbal goods. It bridges the digital gap between local herbal manufacturers and health-conscious buyers.
 
