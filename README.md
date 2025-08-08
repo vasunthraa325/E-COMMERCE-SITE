@@ -66,13 +66,14 @@ Tools	REST APIs, JSON, npm
 (![page 4](https://github.com/vasunthraa325/E-COMMERCE-SITE/blob/main/Images/Page1.png)
 
 
+![Page 2](https://github.com/vasunthraa325/E-COMMERCE-SITE/blob/main/Images/Page2.png?raw=true)
 
 
 ![Page 3](https://github.com/vasunthraa325/E-COMMERCE-SITE/blob/main/Images/Page3.png?raw=true)
 
 
 
-![Page 2](https://github.com/vasunthraa325/E-COMMERCE-SITE/blob/main/Images/Page2.png?raw=true)
+
 
 
 
